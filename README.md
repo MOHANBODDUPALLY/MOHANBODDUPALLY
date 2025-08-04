@@ -12,9 +12,14 @@ Results-driven software developer with 3+ years of experience in building scalab
 Technical Skills
 
 • Frontend: React.js, JavaScript, HTML, CSS, JSP
-• Backend: Core Java, Python, RESTful APIs
-• Databases: SQL, MySQL, SQLite
+
+• Backend: Core Java, Python,
+
+• Databases: SQL, MySQL,
+
 • Cloud & DevOps: AWS (Lambda, S3), Git, JUnit, Agile Scrum
+
+• Tools: GitHub, Git, IBM MQ, TCS Mastercraft
 
 Professional Experience
 
