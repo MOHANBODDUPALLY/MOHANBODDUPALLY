@@ -19,13 +19,21 @@ Technical Skills
 Professional Experience
 
 Full Stack Developer - Tata Consultancy Services (TCS) | Feb 2022 – Present
+
 Client/Project: State Bank of India – Trade Finance Automation System
+
 •	Designed and developed responsive UIs using React.js & JavaScript for real-time visibility into export-import operations.
+
 •	Built and optimized RESTful APIs with Core Java & JSP, integrating internal banking systems to streamline workflows and reduce manual effort by 40%.
+
 •	Refactored backend modules into modular services, improving large transaction processing speeds.
+
 •	Led Agile ceremonies as Scrum Leader, facilitating sprint planning & retrospectives, ensuring on-time delivery.
+
 •	Maintained security-compliant documentation aligning with banking audit standards.
+
 •	Mentored junior developers, conducted peer code reviews, improving team productivity and code quality.
+
 •	Automated system tests and upgraded software interfaces, reducing production issues and enhancing user experience.
 
 
