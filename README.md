@@ -17,7 +17,7 @@ Technical Skills
 
 • Databases: SQL, MySQL,
 
-• Cloud & DevOps: AWS (Lambda, S3), Git, JUnit, Agile Scrum
+• Cloud & DevOps: AWS (Lambda, S3), Git, Github, JUnit, Agile Scrum
 
 • Tools: GitHub, Git, IBM MQ, TCS Mastercraft
 
