@@ -13,11 +13,11 @@ Technical Skills
 
 • Frontend: React.js, JavaScript, HTML, CSS, JSP
 
-• Backend: Core Java, Python,
+• Backend: Core Java, Python,RESTful APIs
 
 • Databases: SQL, MySQL,
 
-• Cloud & DevOps: AWS (Lambda, S3), Git, Github, JUnit, Agile Scrum
+• Cloud & DevOps: AWS (Lambda, S3), Git, Github, Agile Scrum
 
 • Tools: GitHub, Git, IBM MQ, TCS Mastercraft
 
