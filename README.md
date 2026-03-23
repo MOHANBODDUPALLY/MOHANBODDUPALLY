@@ -5,7 +5,7 @@ Mohan Boddupally
 
 Career Summary
 
-Results-driven software developer with 3+ years of experience in building scalable web applications for banking and enterprise clients. Proficient in front-end and back-end development, with expertise in React.js, Core Java, REST APIs, and SQL. Recognized for delivering high-quality solutions under tight deadlines, improving system performance, and leading Agile teams as a Scrum Leader.
+Results-driven software developer with 4+ years of experience in building scalable web applications for banking and enterprise clients. Proficient in front-end and back-end development, with expertise in React.js, Core Java, REST APIs, and SQL. Recognized for delivering high-quality solutions under tight deadlines, improving system performance, and leading Agile teams as a Scrum Leader.
 
 
 
